@@ -2,7 +2,14 @@
 🔭 I’m an Undergraduate Computer Science Student at The National Development University "Veteran" of Jakarta<br>👯 I’m looking to collaborate on Backend Projects as I am trying to learn it<br>🌱 I’m currently learning JavaScript, TypeScript, Laravel (PHP framework), a few backends, and soon DevOps!<br>💬 Reach me on: muhammad2nanda@gmail.com<br>⚡ Trying my best to balance out my hobbies and my passions
 
 
-## 🌐 Socials:
+### Now Playing — Spotify 🎧
+<p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21lnpfz3ykpp7lcss2wfd4opi&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21lnpfz3ykpp7lcss2wfd4opi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kraunanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-dwi-ananda-b97797246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kraunanda) 
 
 # 💻 Tech Stack:
